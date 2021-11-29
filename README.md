@@ -8,9 +8,10 @@ El objetivo del siguiente trabajo practico es crear un modelo que sea capas de p
 
 
 # Parte II
-[Notebook de Regresion Logistica](https://github.com/LuisParedes1/TP3-orga/blob/master/RegresionLogistica.ipynb)
 
-[Modelo de Regresion Logistica entrenado para probar](https://github.com/LuisParedes1/TP3-orga/blob/master/logistic_regression_model.pkl)
+* [Notebook de Regresion Logistica](https://github.com/LuisParedes1/TP3-orga/blob/master/RegresionLogistica.ipynb)
+
+* [Modelo de Regresion Logistica entrenado para probar](https://github.com/LuisParedes1/TP3-orga/blob/master/logistic_regression_model.pkl)
 
 # Parte III
 
