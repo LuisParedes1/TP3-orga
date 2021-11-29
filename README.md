@@ -14,14 +14,17 @@ El objetivo del siguiente trabajo practico es crear un modelo que sea capas de p
 
 # Parte III
 
-[Notebook de RandomForesRegression](https://github.com/LuisParedes1/TP3-orga/blob/master/RandomForest.ipynb)
+## Random Forest
 
-[Modelo de RandomForest entrenado para probarlo](https://github.com/LuisParedes1/TP3-orga/blob/master/random_forest_model.pkl)
+* [Notebook de RandomForesRegression](https://github.com/LuisParedes1/TP3-orga/blob/master/RandomForest.ipynb)
 
+* [Modelo de RandomForest entrenado para probarlo](https://github.com/LuisParedes1/TP3-orga/blob/master/random_forest_model.pkl)
 
-[Notebook de XGBoost](https://github.com/LuisParedes1/TP3-orga/blob/master/XGBooster.ipynb)
+## XGBoost
 
-[Modelo de XGBoost entrenado para probar](https://github.com/LuisParedes1/TP3-orga/blob/master/xgbooster.pkl)
+* [Notebook de XGBoost](https://github.com/LuisParedes1/TP3-orga/blob/master/XGBooster.ipynb)
+
+* [Modelo de XGBoost entrenado para probar](https://github.com/LuisParedes1/TP3-orga/blob/master/xgbooster.pkl)
 
 # Kaggle Submitions
 
@@ -31,4 +34,4 @@ El objetivo del siguiente trabajo practico es crear un modelo que sea capas de p
 
 # Enunciado
 
-[Enunciado]()
+[Enunciado](https://github.com/LuisParedes1/TP3-orga/blob/master/TP3_2c2021.pdf)
