@@ -29,10 +29,9 @@ El objetivo del siguiente trabajo practico es crear un modelo que sea capas de p
 
 # Kaggle Submitions
 
-* [Submition usando Regresion Logistica](https://github.com/LuisParedes1/TP3-orga/blob/master/sample_submition_LR.csv)
+* [Submition usando Regresion Logistica](https://github.com/LuisParedes1/TP3-orga/blob/master/sample_submition_LR.csv) Private Score: 0.825813, Public Score: 0.857682
 
-* [Submition usando XGBoost](https://github.com/LuisParedes1/TP3-orga/blob/master/sample_submition_XGB.csv)
-
+* [Submition usando XGBoost](https://github.com/LuisParedes1/TP3-orga/blob/master/sample_submition_XGB.csv) - Private Score: 0.863006, Public Score: 0.880579
 # Enunciado
 
 [Enunciado](https://github.com/LuisParedes1/TP3-orga/blob/master/TP3_2c2021.pdf)
